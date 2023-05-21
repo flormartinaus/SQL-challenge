@@ -1,3 +1,7 @@
+
+
+
+
 CREATE TABLE "employees" (
   "emp_no" INT,
   "emp_title" VARCHAR,
